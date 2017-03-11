@@ -16,4 +16,4 @@ Etaoin shrdlu?
 The quick brown fox jumps over the lazy dog.  Pack my box with five dozen liquor jugs. Jackdaws love my big sphinx of quartz. The five boxing wizards jump quickly. How vexingly 
 quick daft zebras jump! Bright vixens jump; dozy fowl quack. Sphinx of black quartz, judge my vow.
 
-
+Well that was a lot of typing.
