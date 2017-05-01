@@ -23,3 +23,5 @@ How about:
 3. Homesense?
 
 Maybe we can look into some of those.
+
+So maybe this isn't about a hair dryer.
