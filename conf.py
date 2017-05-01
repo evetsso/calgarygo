@@ -17,15 +17,15 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Crazy Bananas"  # (translatable)
-BLOG_TITLE = "The Broken Hairdryer"  # (translatable)
+BLOG_AUTHOR = "Fam Fam Famfam"  # (translatable)
+BLOG_TITLE = "All About Together"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://crzv.duckdns.org/"
+SITE_URL = "https://allabouttogether.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://crzv.duckdns.org/"
-BLOG_EMAIL = "crazy.bananas@company.com"
+BLOG_EMAIL = "allabouttogether@gmail.com"
 BLOG_DESCRIPTION = "A family diary"  # (translatable)
 
 # Nikola is multilingual!
