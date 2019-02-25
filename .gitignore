@@ -1,4 +1,5 @@
-.doit.db.db
+.doit.db*
 __pycache__
 cache
 state_data.json
+public_html
