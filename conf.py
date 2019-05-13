@@ -584,7 +584,7 @@ REDIRECTIONS = []
 DEPLOY_COMMANDS = {
     'default': [
         "mkdir host",
-        "sshfs calgaryg@ftp.calgarygo.ca: host",
+        "sshfs -p 2262 calgaryg@ftp.calgarygo.ca: host",
         "rsync -rlptv --delete public_html host/",
         "fusermount -u host",
         "rmdir host",
