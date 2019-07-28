@@ -43,7 +43,13 @@ First and second place in the top division will receive $100 and $50 respectivel
 
 This tournament will use [Chinese rules](https://senseis.xmp.net/?ChineseRules).
 Time controls, divisions and format will be based on registrations but the goal is to have 5-7 rounds and for everyone to play in every round. Priority will also be given to pairing local players with those from outside Calgary. If necessary a handicap will be instituted in the lowest division to ensure challenging games for all.
-We aim to start late on Saturday and finish early on Sunday to facilitate players coming from out of town. An exact schedule will be announced once we have an idea who will be attending.
+
+Registrations will begin Saturday June 15th at 9:00AM with the first round scheduled to start at 10:00AM.
+
+Space is limited so registrations will be accepted on a first come, first serve basis with priority given to players travelling from out of town.  Please come by early to secure your spot!
+
+The aim is to finish early on Sunday to facilitate players coming from out of town.
+
 Snacks/drinks will be available but lunch will not be provided. Players are free to bring their own lunch or buy from nearby shops/restaurants.
 Free street parking is available within walking distance.
 
