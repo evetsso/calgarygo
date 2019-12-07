@@ -581,15 +581,8 @@ REDIRECTIONS = []
 # to `nikola deploy`.  If no arguments are specified, a preset
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
-DEPLOY_COMMANDS = {
-    'default': [
-        "mkdir host",
-        "sshfs -p 2262 calgaryg@ftp.calgarygo.ca: host",
-        "rsync -rlptv --delete public_html host/",
-        "fusermount -u host",
-        "rmdir host",
-    ]
-}
+#DEPLOY_COMMANDS = {
+#}
 
 # github_deploy configuration
 # For more details, read the manual:
@@ -599,7 +592,7 @@ GITHUB_SOURCE_BRANCH = 'src'
 GITHUB_DEPLOY_BRANCH = 'master'
 
 # The name of the remote where you wish to push to, using github_deploy.
-GITHUB_REMOTE_NAME = 'origin'
+GITHUB_REMOTE_NAME = 'github'
 
 # Whether or not github_deploy should commit to the source branch automatically
 # before deploying.
