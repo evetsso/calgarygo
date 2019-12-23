@@ -14,22 +14,22 @@
 
 The Calgary Go Club plays the ancient game of [Go](https://en.wikipedia.org/wiki/Go_%28game%29), also known as Weiqi or Baduk.
 
-We provide an opportunity for players of all ages to enjoy the game, learn from one another, and have fun!
+We provide an opportunity for players of all ages and all skill
+levels to enjoy the game, learn from one another, and have fun!
 
 # Meetings
-The club meets every Sunday at 6:30pm, at the Calgary Jiang Zhe Shanghai Association.  The address is #114, 3 Avenue SE, in Calgary's Chinatown.
+The club meets every Sunday from 12-5pm, at the Calgary Central
+Library, at 800 3 Street SE, directly east of City Hall.
 
-<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=114%203%20Ave%20SE%2C%20Calgary%2C%20AB%2C%20Canada&key=AIzaSyB_J2g58c7X2Yr-wkX44-ox8IfnLo4RNSM" allowfullscreen></iframe> 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2508.419721842189!2d-114.05711834839785!3d51.045337352101534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537170003cb69fe3%3A0x65642e5fb9371572!2sCentral%20Library!5e0!3m2!1sen!2sca!4v1577082584228!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
-We are up the stairs, down the hall, and in a room to the left.
+We meet at the tables by the giant size chess board on the 2nd floor.
+If those tables are not available, we will find other tables on the
+2nd floor to play on.
 
-# Membership
-
-* Annual membership - $30
-* Youth (16 and under) and seniors - $15
-* Children under 12 - Free
-
-Drop by anytime for a free first meeting!
+Because we meet in a public space, we do not need to charge a
+membership fee.  We will bring a few sets of boards and stones, but
+feel free to bring your own if you wish.
 
 # Contact
 
