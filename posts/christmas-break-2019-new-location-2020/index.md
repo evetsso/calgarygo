@@ -24,8 +24,8 @@ src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2508.419721842189!2d-
 width="600" height="450" frameborder="0" style="border:0;"
 allowfullscreen=""></iframe>
 
-We aim to meet at the giant size chess board on the second floor.
+We aim to meet at the giant size chess board on the third floor.
 There are some tables that we can sit at.  If those tables are
-occupied, we will find other tables on the second floor.
+occupied, we will find other tables on the third floor.
 
 See you in 2020!
