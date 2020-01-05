@@ -16,7 +16,7 @@ In the new year, we will have to make some changes.  The Calgary
 Jiang Zhe Shanghai Association will no longer be hosting us in 2020,
 so we will need to change time and location for meetups.
 
-We will be moving our meetings to Sundays 12-5 PM, on the second
+We will be moving our meetings to Sundays 12-5 PM, on the third
 floor of the Calgary Central Library.
 
 <iframe
