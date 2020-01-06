@@ -23,9 +23,9 @@ Library, at 800 3 Street SE, directly east of City Hall.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2508.419721842189!2d-114.05711834839785!3d51.045337352101534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x537170003cb69fe3%3A0x65642e5fb9371572!2sCentral%20Library!5e0!3m2!1sen!2sca!4v1577082584228!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
-We meet at the tables by the giant size chess board on the 2nd floor.
+We meet at the tables by the giant size chess board on the 3rd floor.
 If those tables are not available, we will find other tables on the
-2nd floor to play on.
+3rd floor to play on.
 
 Because we meet in a public space, we do not need to charge a
 membership fee.  We will bring a few sets of boards and stones, but
