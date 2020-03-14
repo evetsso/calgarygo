@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Calgary Go Club</title><link>https://calgarygo.ca/</link><description></description><atom:link href="https://calgarygo.ca/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Sun, 05 Jan 2020 21:20:39 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Christmas break 2019, new location 2020</title><link>https://calgarygo.ca/posts/christmas-break-2019-new-location-2020/</link><dc:creator>Steve</dc:creator><description>&lt;div&gt;&lt;p&gt;There will be no Go club meetings on December 22 and 29, 2019, as
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Calgary Go Club</title><link>https://calgarygo.ca/</link><description></description><atom:link href="https://calgarygo.ca/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Sat, 14 Mar 2020 01:10:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Meetings suspended due to COVID-19</title><link>https://calgarygo.ca/posts/meetings-suspended-due-to-covid-19/</link><dc:creator>Steve</dc:creator><description>&lt;div&gt;&lt;p&gt;Go club meetings shall be suspended until further notice, starting with our 
+upcoming meeting on March 15.&lt;/p&gt;
+&lt;p&gt;Please watch this space for updates, as the coronavirus situation is always 
+changing.&lt;/p&gt;
+&lt;p&gt;But it is important to curb the spread of the disease to protect the whole 
+community.  As much as we love to play, safety must come first.  So 
+everyone, please take care of yourselves, and we will resume normal play 
+when it is appropriate to do so.&lt;/p&gt;&lt;/div&gt;</description><guid>https://calgarygo.ca/posts/meetings-suspended-due-to-covid-19/</guid><pubDate>Sat, 14 Mar 2020 01:05:53 GMT</pubDate></item><item><title>Christmas break 2019, new location 2020</title><link>https://calgarygo.ca/posts/christmas-break-2019-new-location-2020/</link><dc:creator>Steve</dc:creator><description>&lt;div&gt;&lt;p&gt;There will be no Go club meetings on December 22 and 29, 2019, as
 we'll break for Christmas holiday.&lt;/p&gt;
 &lt;p&gt;In the new year, we will have to make some changes.  The Calgary
 Jiang Zhe Shanghai Association will no longer be hosting us in 2020,
@@ -120,6 +127,4 @@ dates.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This is a great opportunity to introduce the game to beginners, and have a lot of fun in the process.&lt;/p&gt;
-&lt;p&gt;Vincent and Steve will be running the table as the official volunteers, but any other players are welcome to come by to play, chat, or teach.  The rest of the festival is always a lot of fun too, so we hope to see you there!&lt;/p&gt;&lt;/div&gt;</description><guid>https://calgarygo.ca/posts/omatsuri-2018/</guid><pubDate>Sun, 13 May 2018 05:19:21 GMT</pubDate></item><item><title>Refreshed website</title><link>https://calgarygo.ca/posts/new-site/</link><dc:creator>Steve</dc:creator><description>&lt;div&gt;&lt;p&gt;It's time for a refreshed website!&lt;/p&gt;
-&lt;p&gt;Website nerds will notice it's statically generated, uses HTTPS by default, and is generally more modern.&lt;/p&gt;
-&lt;p&gt;Otherwise, it'll continue as a place to announce goings-on with the club.&lt;/p&gt;&lt;/div&gt;</description><guid>https://calgarygo.ca/posts/new-site/</guid><pubDate>Thu, 10 May 2018 04:54:32 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Vincent and Steve will be running the table as the official volunteers, but any other players are welcome to come by to play, chat, or teach.  The rest of the festival is always a lot of fun too, so we hope to see you there!&lt;/p&gt;&lt;/div&gt;</description><guid>https://calgarygo.ca/posts/omatsuri-2018/</guid><pubDate>Sun, 13 May 2018 05:19:21 GMT</pubDate></item></channel></rss>
