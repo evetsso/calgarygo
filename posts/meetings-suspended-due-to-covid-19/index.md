@@ -19,3 +19,7 @@ But it is important to curb the spread of the disease to protect the whole
 community.  As much as we love to play, safety must come first.  So 
 everyone, please take care of yourselves, and we will resume normal play 
 when it is appropriate to do so.
+
+EDIT: And now the libraries are closed too, so we couldn't meet even if we 
+wanted to.  Play online for now!  Once the libraries reopen, look here for 
+updates.
