@@ -33,7 +33,14 @@ feel free to bring your own if you wish.
 
 # Contact
 
-If you have any questions, or have any trouble finding us, give us a call:
+If you have any questions, or have any trouble finding us, contact us:
 
-* Vincent (403) 998-6829
-* Steve (403) 614-6159
+Vincent
+
+* Phone: (403) 998-6829
+* Email: studentofsmith (at) gmail dot com
+
+Steve
+
+* Phone: (403) 614-6159
+* Email: evetsso (at) gmail dot com
