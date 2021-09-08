@@ -42,5 +42,5 @@ Vincent
 
 Steve
 
-* Phone: (403) 614-6159
+* Phone/SMS/Signal: (403) 614-6159
 * Email: evetsso (at) gmail dot com
