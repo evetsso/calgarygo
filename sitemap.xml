@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://calgarygo.ca/</loc>
-  <lastmod>2021-08-30T04:18:00Z</lastmod>
+  <lastmod>2022-03-02T02:40:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/2018/</loc>
@@ -26,8 +26,12 @@
   <lastmod>2021-08-30T04:18:00Z</lastmod>
  </url>
  <url>
+  <loc>https://calgarygo.ca/2022/</loc>
+  <lastmod>2022-03-02T02:40:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://calgarygo.ca/archive.html</loc>
-  <lastmod>2021-09-18T02:17:00Z</lastmod>
+  <lastmod>2022-03-02T02:40:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/categories/</loc>
@@ -35,7 +39,7 @@
  </url>
  <url>
   <loc>https://calgarygo.ca/index-1.html</loc>
-  <lastmod>2021-09-18T02:17:00Z</lastmod>
+  <lastmod>2022-03-02T02:40:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/pages/about-us/</loc>
@@ -100,5 +104,9 @@
  <url>
   <loc>https://calgarygo.ca/posts/suspended-again-fourth-wave/</loc>
   <lastmod>2021-09-18T02:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://calgarygo.ca/posts/were-back-and-we-mean-it/</loc>
+  <lastmod>2022-03-02T02:40:00Z</lastmod>
  </url>
 </urlset>
