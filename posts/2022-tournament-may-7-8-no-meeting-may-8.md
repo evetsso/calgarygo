@@ -43,7 +43,7 @@ Saturday May 7 and Sunday May 8<br/>
 </tr>
 </table>
 
-The tournament format will be 6 round Swiss McMahon, with divisions to be finalized the day of the tournament.  We will use AGA rules, with 45 minutes main time per side, 25 stones in 10 minutes Canadian byo-yomi.
+The tournament format will have 6 rounds, with the exact format and divisions to be finalized by the day of the tournament.  We will use AGA rules, with 45 minutes main time per side, 25 stones in 10 minutes Canadian byo-yomi.
 
 The time table shall be approximately:
 
