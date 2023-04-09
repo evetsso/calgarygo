@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://calgarygo.ca/</loc>
-  <lastmod>2022-03-02T02:40:00Z</lastmod>
+  <lastmod>2023-04-09T03:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/2018/</loc>
@@ -30,8 +30,12 @@
   <lastmod>2022-03-02T02:40:00Z</lastmod>
  </url>
  <url>
+  <loc>https://calgarygo.ca/2023/</loc>
+  <lastmod>2023-04-09T03:59:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://calgarygo.ca/archive.html</loc>
-  <lastmod>2022-12-12T15:57:00Z</lastmod>
+  <lastmod>2023-04-09T03:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/categories/</loc>
@@ -39,7 +43,11 @@
  </url>
  <url>
   <loc>https://calgarygo.ca/index-1.html</loc>
-  <lastmod>2022-12-12T15:57:00Z</lastmod>
+  <lastmod>2023-04-09T03:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://calgarygo.ca/index-2.html</loc>
+  <lastmod>2023-04-09T03:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/pages/about-us/</loc>
@@ -56,6 +64,10 @@
  <url>
   <loc>https://calgarygo.ca/posts/2022-tournament-results/</loc>
   <lastmod>2022-05-11T16:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://calgarygo.ca/posts/2023-tournament-may-6-7-no-meeting-may-7/</loc>
+  <lastmod>2023-04-09T03:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/posts/calgary-go-club-meetings-resume-august-29-2021/</loc>
