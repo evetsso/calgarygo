@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://calgarygo.ca/authors/steve.xml</loc>
-  <lastmod>2023-05-10T02:25:00Z</lastmod>
+  <lastmod>2023-07-31T03:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://calgarygo.ca/authors/vincent.xml</loc>
@@ -15,10 +15,10 @@
  </sitemap>
  <sitemap>
   <loc>https://calgarygo.ca/rss.xml</loc>
-  <lastmod>2023-05-10T02:25:00Z</lastmod>
+  <lastmod>2023-07-31T03:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://calgarygo.ca/sitemap.xml</loc>
-  <lastmod>2023-05-10T02:25:00Z</lastmod>
+  <lastmod>2023-07-31T03:45:00Z</lastmod>
  </sitemap>
 </sitemapindex>
