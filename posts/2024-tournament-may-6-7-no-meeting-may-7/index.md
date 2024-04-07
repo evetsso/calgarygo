@@ -7,7 +7,6 @@
 .. link: 
 .. description: 
 .. type: text
-.. status: private
 -->
 
 The 2024 Calgary Go Tournament is upon us!  We will be hosting the tournament on the weekend of May 4-5.  Registration details are below, but the deadline for registration is **April 30, 2024**.  Please register as early as you can to make planning easier.
@@ -26,7 +25,7 @@ Calgary Co-op Brentwood<br/>
 <tr>
 <td style="vertical-align: top; font-weight:bold; padding: 10px">Date and Time:</td>
 <td style="vertical-align: top; padding: 10px">
-Saturday May 4 (9:00 AM to about 4:00 PM) and Sunday May 5 (9:00 AM to 2:00 PM)<br/>
+Saturday May 4 (9:00 AM to about 5:00 PM) and Sunday May 5 (9:00 AM to 2:00 PM)<br/>
 Exact finish times will depend on how quickly the last round of the day ends.
 </td>
 </tr>
