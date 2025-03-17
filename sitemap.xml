@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://calgarygo.ca/</loc>
-  <lastmod>2024-11-20T21:28:00Z</lastmod>
+  <lastmod>2025-03-17T22:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/2018/</loc>
@@ -38,8 +38,12 @@
   <lastmod>2024-01-08T18:08:00Z</lastmod>
  </url>
  <url>
+  <loc>https://calgarygo.ca/2025/</loc>
+  <lastmod>2025-03-17T22:59:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://calgarygo.ca/archive.html</loc>
-  <lastmod>2024-11-20T21:29:00Z</lastmod>
+  <lastmod>2025-03-17T22:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/authors/</loc>
@@ -59,15 +63,15 @@
  </url>
  <url>
   <loc>https://calgarygo.ca/index-1.html</loc>
-  <lastmod>2024-05-10T14:40:00Z</lastmod>
+  <lastmod>2025-03-17T22:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/index-2.html</loc>
-  <lastmod>2024-11-20T21:29:00Z</lastmod>
+  <lastmod>2025-03-17T22:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/index-3.html</loc>
-  <lastmod>2024-11-20T21:29:00Z</lastmod>
+  <lastmod>2025-03-17T22:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/pages/about-us/</loc>
@@ -176,6 +180,10 @@
  <url>
   <loc>https://calgarygo.ca/posts/omatsuri-2024-august-9-%2B-10/</loc>
   <lastmod>2024-06-11T16:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://calgarygo.ca/posts/omatsuri-2025-july-18-%2B-19/</loc>
+  <lastmod>2025-03-17T22:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/posts/spring-go-tournament-results/</loc>
