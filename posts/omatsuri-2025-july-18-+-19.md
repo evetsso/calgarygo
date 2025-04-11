@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-The [2025 edition of the Calgary Japanese Festival Omatsuri] is coming this summer!  Once again, the event is spread 
+The [2025 edition of the Calgary Japanese Festival Omatsuri](https://calgaryjca.com/events/omatsuri-calgary-japanese-festival-2025/) is coming this summer!  Once again, the event is spread 
 across two days at Max Bell Centre, but this year it's happening in July.
 
 The Calgary Go Club will be there to teach beginners the rules and help them play their first few games.  This is 
