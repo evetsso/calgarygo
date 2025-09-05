@@ -1,5 +1,5 @@
 <!--
-.. title: 2025 Fall Tournament October 5
+.. title: 2025 Fall Tournament October 5, no club meeting
 .. slug: 2025-fall-tournament-october-5
 .. date: 2025-09-05 08:35:57 UTC-06:00
 .. tags: 
@@ -10,6 +10,8 @@
 -->
 
 A year is a long time between tournaments, so the Calgary Go Club is hosting a Fall tournament for 2025.  It will take place on October 5th.
+
+Note that because of the tournament there will be no club meeting on October 5th.
 
 <table>
 <tr>
