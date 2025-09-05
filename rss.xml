@@ -1,5 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Calgary Go Club</title><link>https://calgarygo.ca/</link><description></description><atom:link href="https://calgarygo.ca/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Mon, 12 May 2025 22:25:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>2025 Tournament Results</title><link>https://calgarygo.ca/posts/2025-tournament-results/</link><dc:creator>Vincent</dc:creator><description>&lt;p&gt;Thanks to everyone who came out to make this year's Spring Tournament a rousing success! With a solid turnout of 26 players we had some fierce competition, particularly in the "B" division.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Calgary Go Club</title><link>https://calgarygo.ca/</link><description></description><atom:link href="https://calgarygo.ca/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Fri, 05 Sep 2025 14:38:57 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>2025 Fall Tournament October 5</title><link>https://calgarygo.ca/posts/2025-fall-tournament-october-5/</link><dc:creator>Steve</dc:creator><description>&lt;p&gt;A year is a long time between tournaments, so the Calgary Go Club is hosting a Fall tournament for 2025.  It will take place on October 5th.&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;Location:&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;
+Calgary Co-op Brentwood&lt;br&gt;
+4122 Brentwood Rd NW&lt;br&gt;
+&lt;a href="https://goo.gl/maps/hZKyhPRrRjU7579ZA"&gt;View Map&lt;/a&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;Date and Time:&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;
+Sunday October 5th (9:00 AM to about 6:30 PM)&lt;br&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;Registration:&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;Email Vincent at &lt;a href="mailto:studentofsmith@gmail.com"&gt;studentofsmith@gmail.com&lt;/a&gt; with your name and rank (if known)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;Entry fee:&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;&lt;span style="font-weight:bold"&gt;NONE!&lt;/span&gt;&lt;br&gt;Co-op does not charge us for use of the community room, so we have negligible costs to run the tournament.&lt;br&gt;So come have some fun and play some games!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;Prizes:&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;Fame and glory!&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The tournament will have a round-robin format with 6 players per division (five rounds).  Whoever has the most wins in a division will be the winner of that division. In the event of a tie the winner of the game between the players who are tied will be the winner.&lt;/p&gt;
+&lt;p&gt;The games will use AGA rules unless both players agree to use a different ruleset. 30 minutes main time with 5x30 seconds overtime.&lt;/p&gt;
+&lt;p&gt;Approximate schedule:&lt;/p&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;9:00 AM&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;Doors open&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;10:00 AM&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;First Round&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;11:30 AM&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;Second Round&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;1:00 PM&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;Lunch break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;2:00 PM&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;Third Round&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;3:30 PM&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;Fourth Round&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;5:00 PM&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;Fifth Round&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: top; font-weight:bold; padding: 10px"&gt;6:30 PM&lt;/td&gt;
+&lt;td style="vertical-align: top; padding: 10px"&gt;Awards Presentation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The registration deadline is October 3rd, 2025.  Space is limited, so please register early to secure your spot.&lt;/p&gt;
+&lt;p&gt;Contact Vincent if you have any further questions.  See you there!&lt;/p&gt;</description><guid>https://calgarygo.ca/posts/2025-fall-tournament-october-5/</guid><pubDate>Fri, 05 Sep 2025 14:35:57 GMT</pubDate></item><item><title>2025 Tournament Results</title><link>https://calgarygo.ca/posts/2025-tournament-results/</link><dc:creator>Vincent</dc:creator><description>&lt;p&gt;Thanks to everyone who came out to make this year's Spring Tournament a rousing success! With a solid turnout of 26 players we had some fierce competition, particularly in the "B" division.&lt;/p&gt;
 &lt;p&gt;This year's winners were Xavier Dunn in the D division, Jim Zhou in the C division, Clayten Skibinsky in the B division and Xiaofei Deng in the A division.&lt;/p&gt;
 &lt;p&gt;I would again like to thank Brentwood Co-Op for allowing us to use their community room free of charge.&lt;/p&gt;
 &lt;p&gt;I look forward to seeing everyone at the next tournament!&lt;/p&gt;</description><guid>https://calgarygo.ca/posts/2025-tournament-results/</guid><pubDate>Mon, 12 May 2025 22:23:07 GMT</pubDate></item><item><title>2025 Tournament May 10</title><link>https://calgarygo.ca/posts/2025-tournament-may-10/</link><dc:creator>Steve</dc:creator><description>&lt;p&gt;It's time for the 2025 Calgary Go Tournament!  This year, it will be a one-day affair held on May 10th.&lt;/p&gt;
@@ -203,13 +272,4 @@ Exact finish times will depend on how quickly the last round of the day ends.
 &lt;p&gt;The Panorama Hills Residents Association is interested in having some Go teaching sessions over the summer, mainly aimed at seniors in that community.  The intent is to have some recurring sessions of teaching and games, and perhaps an informal 
 tournament at the end of the season.&lt;/p&gt;
 &lt;p&gt;Exact location, times and dates are still to be determined, and will depend on the availability of volunteers to run the classes.  Please send an email to me (evetsso at gmail.com) if you're interested!  We can work out how to distribute 
-equipment to you.&lt;/p&gt;</description><guid>https://calgarygo.ca/posts/teach-go-near-panorama-hills/</guid><pubDate>Sun, 17 Mar 2024 15:14:52 GMT</pubDate></item><item><title>Welcome to 2024!</title><link>https://calgarygo.ca/posts/welcome-to-2024/</link><dc:creator>Steve</dc:creator><description>&lt;p&gt;We're back and playing again for 2024!  If you made a New Year's Resolution to play more Go this year, come on by and we'll help you out!&lt;/p&gt;
-&lt;div style="overflow-x: auto"&gt;
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;img src="https://calgarygo.ca/assets/images/2024_back.jpg" style="max-width: 50vw; height: auto;"&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/div&gt;</description><guid>https://calgarygo.ca/posts/welcome-to-2024/</guid><pubDate>Mon, 08 Jan 2024 18:06:42 GMT</pubDate></item></channel></rss>
+equipment to you.&lt;/p&gt;</description><guid>https://calgarygo.ca/posts/teach-go-near-panorama-hills/</guid><pubDate>Sun, 17 Mar 2024 15:14:52 GMT</pubDate></item></channel></rss>
