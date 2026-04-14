@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://calgarygo.ca/</loc>
-  <lastmod>2025-03-17T22:59:00Z</lastmod>
+  <lastmod>2026-04-14T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/2018/</loc>
@@ -42,8 +42,12 @@
   <lastmod>2025-03-17T22:59:00Z</lastmod>
  </url>
  <url>
+  <loc>https://calgarygo.ca/2026/</loc>
+  <lastmod>2026-04-14T01:08:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://calgarygo.ca/archive.html</loc>
-  <lastmod>2025-12-08T02:33:00Z</lastmod>
+  <lastmod>2026-04-14T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/authors/</loc>
@@ -63,15 +67,15 @@
  </url>
  <url>
   <loc>https://calgarygo.ca/index-1.html</loc>
-  <lastmod>2025-03-17T22:59:00Z</lastmod>
+  <lastmod>2026-04-14T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/index-2.html</loc>
-  <lastmod>2025-03-17T22:59:00Z</lastmod>
+  <lastmod>2026-04-14T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/index-3.html</loc>
-  <lastmod>2025-12-08T02:33:00Z</lastmod>
+  <lastmod>2026-04-14T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/pages/about-us/</loc>
@@ -120,6 +124,14 @@
  <url>
   <loc>https://calgarygo.ca/posts/2025-tournament-results/</loc>
   <lastmod>2025-05-12T22:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://calgarygo.ca/posts/2026-spring-tournament-may-10/</loc>
+  <lastmod>2026-04-14T01:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://calgarygo.ca/posts/2026-tournament-may-10/</loc>
+  <lastmod>2026-04-14T01:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://calgarygo.ca/posts/all-calgary-public-library-locations-closed/</loc>
